@@ -3,7 +3,7 @@
 #
 Flask==0.10.1
 Yapsy==1.10.423
-numpy==1.9.1
+numpy==1.22.0
 matplotlib==1.4.3
 lshash==0.0.4dev
 cython
